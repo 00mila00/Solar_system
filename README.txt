@@ -8,5 +8,6 @@ What you can do in this app:
 > rotate current scene
 > thicken or thinning out cone mesh
 > moving around the scene (by mouse)
+> see meshes in wireframe mode
 
 See added screenshots to see how it looks :) 
